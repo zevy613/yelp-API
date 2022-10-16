@@ -1,0 +1,2 @@
+My test message to save to file.
+It is a multi-line string.
